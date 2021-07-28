@@ -1,0 +1,37 @@
+.heading h1 {
+    font-size: 30px;
+    text-align: center;
+}
+.review {
+    border: 1px solid;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.review h1 {
+    padding: 20px;
+}
+.review p {
+    padding: 0px 20px 20px 20px;
+}
+.input {
+    border: 1px solid;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.desc-input {
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 20px;
+}
+.input-group {
+    padding: 0px 10px;
+}
+.input button {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.dev {
+    font-size: 9px;
+    text-align: center;
+}
